@@ -44,3 +44,9 @@ print("merhaba \n ikinci satır") # böyle yazdırırsan çalışır
 #içerisinde sayılmamasını istiyorsak r harfini başa yazarız
 print('c:some\name') #yanlış çıktı
 print(r'c:some\name') #doğru çıktı
+
+###sss 
+
+everything = "not update"
+
+everything
