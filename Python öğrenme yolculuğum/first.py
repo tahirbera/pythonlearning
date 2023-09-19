@@ -47,6 +47,3 @@ print(r'c:some\name') #doğru çıktı
 
 ###sss 
 
-everything = "not update"
-
-everything
